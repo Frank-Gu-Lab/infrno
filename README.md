@@ -1,4 +1,4 @@
-## INFRNO: Interpretable framework for uncovering interaction opportunities in macromolecules
+## 🔥 INFRNO: Interpretable framework for uncovering interaction opportunities in macromolecules
 
 #### <b>Samantha Stuart, Jeffrey Watchorn, Frank Gu</b>
 #### Institute of Biomedical Engineering, University of Toronto, Toronto, Ontario, Canada
@@ -9,7 +9,7 @@ This formal analysis repository accompanies the work: <i> An Interpretable Machi
 <br>
 <img src="figures/misc/workflow.png" width="100%" height="100%">
 
-In this work, we developed a framework for modelling the interactions that result between large molecule systems to inform biomaterial design. In addition to modelling structure-activity, the framework identifies "undervalued" ligand sites as engineering design opportunities to unlock receptor interaction. The input data and feature descriptors are obtained from experimental screening with [DISCO-NMR](https://pubs.acs.org/doi/10.1021/acs.biomac.1c00944). Any receptor-ligand interaction dataset generated from DISCO-NMR screening can be analyzed equivalently with INFRNO.
+In this work, we developed a framework for modelling the interactions that result between large molecule systems to inform biomaterial design. In addition to modelling structure-activity, the framework identifies "undervalued" ligand sites as engineering design opportunities to unlock receptor interaction. The input data and feature descriptors are obtained from experimental screening with [DISCO-NMR](https://pubs.acs.org/doi/10.1021/acs.biomac.1c00944). Any receptor-ligand interaction dataset generated from DISCO-NMR screening 🕺 can be analyzed equivalently with INFRNO 🔥.
 
 --------
 
