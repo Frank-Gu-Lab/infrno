@@ -5,11 +5,11 @@
 #### Department of Chemical Engineering and Applied Chemistry, University of Toronto, Toronto, Ontario, Canada
 <br>
 This formal analysis repository accompanies the work: An Interpretable Machine Learning Framework for Modelling Macromolecular Interaction Mechanisms with Nuclear Magnetic Resonance.
-
+<br>
 <br>
 <img src="figures/misc/workflow.png" width="100%" height="100%">
 <br>
-
+<br>
 In this work, we developed a framework for modelling the interactions that result between large molecule systems to inform biomaterial design. In addition to modelling structure-activity, the framework identifies "undervalued" ligand sites as engineering design opportunities to unlock receptor interaction. 
 
 The input data and feature descriptors are obtained from experimental screening with [DISCO-NMR](https://pubs.acs.org/doi/10.1021/acs.biomac.1c00944). Any receptor-ligand interaction dataset generated from DISCO-NMR screening can be analyzed equivalently with INFRNO.
