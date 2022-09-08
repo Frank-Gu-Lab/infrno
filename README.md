@@ -17,7 +17,7 @@ Using INFRNO, we can:  <br>
 <ul>
 <li><b>Model Atomic-Level Macromolecular Interaction Trends:</b> 
 We apply linear principal component analysis to DISCO NMR data descriptors and labels, and train a binary decision tree classifier to construct proton structure-interaction trends across ligand chemical species. 
-
+<br>
 <img src="figures/main/simpletree.png" width="25%" height="25%">
 <li><b>Identify Opportunities for Designed Interaction:</b> Inert-labeled protons bordering cross-species decision regions indicate opportunities for physical property tuning towards interaction without additional chemical functionalization. 
 <br>
