@@ -30,7 +30,7 @@ We apply linear principal component analysis to DISCO NMR data descriptors and l
 
 --------
 ## Quick Start on Google Colab:
-To get quick intuition for the framework [we provide a tutorial in Google Colab](https://colab.research.google.com/drive/1Rq0_pN2wg_utzwcW2BMBC6xQ1mE-A7IA?usp=sharing) which can be run without any local environment setup.
+To get quick intuition for the framework [we provide a tutorial in Google Colab](https://colab.research.google.com/drive/1eXykC_n2Vj8D_HO2-MLyCyP0FJAq0ufj#scrollTo=KxR-H0vkJP-i) which can be run without any local environment setup.
 
 The input dataset to upload to the Colab notebook can be downloaded from this repository in:
 ```data/raw/proton_binding_dataset.xlsx```
